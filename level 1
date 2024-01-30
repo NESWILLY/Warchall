@@ -1,5 +1,9 @@
-`cd /home/level`: Pour accéder dans les repertoires /home/level.
-`ls -1`: Pour afficher verticalement tous les fichiers dans les répertoires précédents.
-`cd 00_welcome` : Changer le répertoire actuel vers "/home/level/00_welcome"
-`ls` : lister le contenu du répertoire "/home/level/00_welcome"
-`cat README.md` : Afficher ainsi le contenu du fichier "README.md" étant dans le répertoire actuel et la solution est là-dedans.
+#level 1 :
+`cd 01_choice_tree` : Entrer dans le dossier "01_choice_tree".
+`ls`: lister le contenu du répertoire courant.
+`cd blue`: accéder dans le répertoire "blue", puis `ls` pour lister son contenu`.
+`cd hats` : accéder dans le répertoire "hats",puis `ls` pour afficher la ou les liste(s) là-dedans.
+`cd grey` : changer le répertoire courant vers le dossier "grey".
+`cd solution`: accéder dans le répertoire "solution", puis `ls`.
+`cd patience` : afficher le contenu du dossier "patience".
+`cat SOLUTION.txt` : lire ce fichier et la solution est ainsi trouvée.
