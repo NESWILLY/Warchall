@@ -1,4 +1,5 @@
-`cd 02` : accéder dans le répertoire "02", puis `ls`.
-`cd documents` : entrer dans le répertoire "documents", puis "ls".
-`cat letter.txt` : lire le fichier "letter.txt".
-        Ainsi on a pu trouver la solution.
+#level 3 :
+`cd 03` : accéder dans le répertoire "03".
+`ls -a` : afficher tous les fichiers, y compris les fichiers cachés.
+`cat .bash_history` : lire le fichier ".bash_history" étant masqué dans le dossier "03".
+                    On y trouvera la solution.
