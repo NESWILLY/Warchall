@@ -4,4 +4,4 @@
 `cd ~`: changer le répertoire de travail courant vers le répertoire personnel, puis `ls`.
 `cd level` : accéder dans le repertoire "level", puis `ls`.
 `cd 04_kwisatz` : entrer dans le dossier "04_kwisatz", puis `ls`.
-`cat README2.md` : lire le fichier "README2.md" et la solution est la-dedans.
+`cat README2.md` : lire le fichier "README2.md" et la solution est là-dedans.
