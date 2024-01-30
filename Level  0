@@ -1,0 +1,10 @@
+Dès que j'ai pu me connecter sur le serveur ssh, j'ai utilisé la commande `ls -a` pour pour afficher une liste détaillée des fichiers et répertoires , y compris les fichiers cachés.
+Ensuite, j'ai lu le fichier `WELCOME.md` étant level 0 en utlisant le commande `cat`.
+Ainsi,j'ai trouvé le répertoire où se trouvent tous les niveaux de ce Warchahll.
+
+#level 0:
+`cd /home/level`: Pour accéder dans les repertoires /home/level.
+`ls -1`: Pour afficher verticalement tous les fichiers dans les répertoires précédents.
+`cd 00_welcome` : Changer le répertoire actuel vers "/home/level/00_welcome"
+`ls` : lister le contenu du répertoire "/home/level/00_welcome"
+`cat README.md` : Afficher ainsi le contenu du fichier "README.md" étant dans le répertoire actuel et la solution est là-dedans.
