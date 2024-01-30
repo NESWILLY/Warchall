@@ -1,4 +1,3 @@
-#Level 0:
 Dès que j'ai pu me connecter sur le serveur ssh, j'ai utilisé la commande `ls -a` pour pour afficher une liste détaillée des fichiers et répertoires , y compris les fichiers cachés.
 Ensuite, j'ai lu le fichier `WELCOME.md` étant level 0 en utlisant le commande `cat`.
 Ainsi,j'ai trouvé le répertoire où se trouvent tous les niveaux de ce Warchahll.
