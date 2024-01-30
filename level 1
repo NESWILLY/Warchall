@@ -1,0 +1,5 @@
+`cd /home/level`: Pour accéder dans les repertoires /home/level.
+`ls -1`: Pour afficher verticalement tous les fichiers dans les répertoires précédents.
+`cd 00_welcome` : Changer le répertoire actuel vers "/home/level/00_welcome"
+`ls` : lister le contenu du répertoire "/home/level/00_welcome"
+`cat README.md` : Afficher ainsi le contenu du fichier "README.md" étant dans le répertoire actuel et la solution est là-dedans.
