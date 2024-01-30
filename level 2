@@ -2,5 +2,5 @@
 `cd 02` : accéder dans le répertoire "02", puis `ls`.
 `cd documents` : entrer dans le répertoire "documents", puis "ls".
 `cat letter.txt` : lire le fichier "letter.txt".
-        Ainsi on a pu trouver la solution.
+        Ainsi,on a pu trouver la solution.
 
