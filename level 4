@@ -1,0 +1,7 @@
+#level 4 :
+`cd 04_kwisatz` : accéder dans le repertoire "04_kwisatz", puis ls pour afficher son contenu.
+`cat README.nfo` : lire le contenu du fichier "README.nfo".
+`cd ~`: changer le répertoire de travail courant vers le répertoire personnel, puis `ls`.
+`cd level` : accéder dans le repertoire "level", puis `ls`.
+`cd 04_kwisatz` : entrer dans le dossier "04_kwisatz", puis `ls`.
+`cat README2.md` : lire le fichier "README2.md" et la solution est la-dedans.
